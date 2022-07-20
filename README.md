@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Cashier App and Laundry App (Internship  Project)
 
-- 🌱 I’m currently learning **Laravel Livewire**
+- 🌱 I’m currently learning **Laravel and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://danu-portfolio.netlify.app](https://danu-portfolio.netlify.app)
 
