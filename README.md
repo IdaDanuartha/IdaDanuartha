@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idadanuartha" alt="idadanuartha" /></a> </p>
 
-- 🔭 I’m currently working on [Travel App](https://github.com/IdaDanuartha/travel-app)
+- 🔭 I’m currently working on [Cashier App and Laundry App (Internship  Project)]
 
 - 🌱 I’m currently learning **Laravel and Nodejs (Expressjs)**
 
