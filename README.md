@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idadanuartha" alt="idadanuartha" /></a> </p>
 
-- 🔭 I’m currently working on Rental Book App (Internship  Project)
+- 🔭 I’m currently working on Redesign Atrem Project (Internship  Project)
 
 - 🌱 I’m currently learning **Laravel and Javascript**
 
