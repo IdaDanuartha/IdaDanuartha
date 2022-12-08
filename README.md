@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Redesign Atrem Project (Internship  Project)
 
-- 🌱 I’m currently learning **Laravel and Javascript**
+- 🌱 I’m currently learning **Laravel and Vue js**
 
 - 👨‍💻 All of my projects are available at [https://danu-portfolio.netlify.app](https://danu-portfolio.netlify.app)
 
