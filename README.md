@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Internship Projects<br><br>🌱 I’m currently learning Laravel and Flutter<br><br>👨‍💻 All of my projects are available at my portfolio (coming soon)<br><br>📫 How to reach me danuart21@gmail.com<br><br>⚡ Fun fact I like playing all rubik's cube puzzle
+🔭 I’m currently working on Internship Projects<br><br>🌱 I’m currently learning Laravel and Flutter<br><br>👨‍💻 All of my projects are available at my portfolio (https://danuartha-dev.netlify.app)<br><br>📫 How to reach me danuart14.dev@gmail.com<br><br>⚡ Fun fact I like playing all rubik's cube puzzle
 
 
 ## 🌐 Socials:
