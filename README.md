@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Freelance Projects<br><br>🌱 I’m currently learning Laravel and Nestjs<br><br>👨‍💻 All of my projects are available at my portfolio (https://danuartha-dev.netlify.app)<br><br>📫 How to reach me danuart14.dev@gmail.com<br><br>⚡ Fun fact I like playing all rubik's cube puzzle 
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dan.dev14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ida-danuartha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@danuartha1696) 
