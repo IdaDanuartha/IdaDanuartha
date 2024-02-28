@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 💫 About Me:   
 🔭 I’m currently working on Freelance Projects<br><br>🌱 I’m currently learning Nestjs and Flutter<br><br>👨‍💻 All of my projects are available at my portfolio (https://danuartha-dev.netlify.app)<br><br>📫 How to reach me danuart14.dev@gmail.com<br><br>⚡ Fun fact I like playing all rubik's cube puzzle
 
 
