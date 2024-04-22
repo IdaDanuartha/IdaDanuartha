@@ -1,5 +1,5 @@
 # 💫 About Me:     
-🔭 I’m currently working on Freelance Projects<br><br>🌱 I’m currently learning Golang and Flutter<br><br>👨‍💻 All of my projects are available at my portfolio (https://danuartha-dev.my.id)<br><br>📫 How to reach me danuart14.dev@gmail.com<br><br>⚡ Fun fact I like playing all rubik's cube puzzle
+🔭 I’m currently working on Freelance Projects<br><br>🌱 I’m currently learning Golang and Flutter<br><br>👨‍💻 All of my projects are available at my portfolio (https://danuartha-dev.my.id)<br><br>📫 How to reach me danuart14.dev@gmail.com<br><br>⚡ Fun fact I like playing all rubik's cube puzzle 
  
 
 # 💻 Tech Stack: 
